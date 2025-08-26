@@ -41,8 +41,8 @@ I'm **Pranay Kumar** — a Data Science and Generative AI enthusiast with a pass
 
 ## 📈 GitHub Stats
 
-![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranay0923&show_icons=true&theme=react&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay0923&layout=compact&theme=react&hide_border=true)
+![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudigondapranay&show_icons=true&theme=react&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudigondapranay&layout=compact&theme=react&hide_border=true)
 
 ---
 
