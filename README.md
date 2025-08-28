@@ -1,6 +1,5 @@
 <!-- 🚀 FUTURISTIC HEADER WITH CAPSULE RENDER -->
 <div align="center">
-  
   <!-- Capsule Header with Cyber Aesthetic -->
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00D8FF,50:7C3AED,100:EC4899&height=120&section=header&text=PRANAY%20KUMAR&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Digital%20Architect%20%7C%20AI%20Innovator&descAlignY=70&descSize=16" width="100%"/>
   
@@ -9,7 +8,6 @@
   
   <!-- Cyber Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
 </div>
 
 ---
@@ -19,6 +17,7 @@
 > **Building tomorrow's web today through intelligent design and cutting-edge technology**
 
 ### ⚡ **WHO I AM**
+
 • **🧬 Innovation Engineer** → Transforming complex problems into elegant digital solutions  
 • **🎨 Creative Technologist** → Merging artistic vision with technical excellence  
 • **🤖 AI Integration Specialist** → Pioneering human-centered AI experiences  
@@ -82,6 +81,27 @@ const FuturisticStack = {
 → Emerging technology adoption  
 → Creative problem-solving approaches  
 → Continuous learning & adaptation  
+
+---
+
+## 📊 **GITHUB STATS & ANALYTICS**
+
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mudigondapranay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff&icon_color=7C3AED" alt="GitHub Stats" width="48%" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudigondapranay&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff" alt="Most Used Languages" width="48%" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudigondapranay&theme=radical&hide_border=true&background=0D1117&stroke=00D8FF&ring=7C3AED&fire=EC4899&currStreakLabel=00D8FF" alt="GitHub Streak" width="70%" />
+  
+</div>
 
 ---
 
