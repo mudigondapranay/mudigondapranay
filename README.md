@@ -1,8 +1,8 @@
 <!-- Header with animated typing and capsule render -->
 <div align="center">
   
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Full-Stack%20Innovator%20%26%20UI/UX%20Visionary&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20Creativity%20Meets%20Code&descAlignY=51&descAlign=50)](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=PRANAY%27S%20DIGITAL%20UNIVERSE&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&descAlign=62&descAlignY=51&desc=Architecting%20Tomorrow's%20Web%20Today
-)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=PRANAY%27S%20DIGITAL%20UNIVERSE&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&descAlign=62&descAlignY=51&desc=Architecting%20Tomorrow's%20Web%20Today)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there!+I'm+Pranay+Kumar+%F0%9F%91%8B;Digital+Architect+%7C+Creative+Technologist;Building+Tomorrow's+Web+Today+%F0%9F%9A%80)](https://git.io/typing-svg)
 
