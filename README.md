@@ -4,6 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there!+I'm+Pranay+Kumar+%F0%9F%91%8B;Digital+Architect+%7C+Creative+Technologist;Building+Tomorrow's+Web+Today+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
+
+
 </div>
 
 ---
