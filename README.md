@@ -1,163 +1,83 @@
-<!-- Profile Banner -->
-<a href="https://mudigondapranay.github.io/" target="_blank">
+<!-- Animated hello -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="hello" align="center" />
+
+<!-- Animated typing SVG intro - personalize link/lines if you want! -->
+<h1 align="center">
+  <a href="https://mudigondapranay.in/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=650&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Mudigonda+Pranay;Love+to+build+digital+experiences;Full+Stack+Developer+from+India" alt="Hey there 🙋‍♂️, I'm Mudigonda Pranay" />
+  </a>
+</h1>
+
+<!-- Banner image, update or remove as preferred -->
+<a href="https://mudigondapranay.in/">
   <img
-    alt="Mudigonda Pranay Kumar"
+    alt="Mudigonda Pranay"
     src="./assets/banner.jpg"
     width="100%"
   />
 </a>
 
-<!-- Animated Waving Hand -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-  <h1>Hi there! I'm Mudigonda Pranay Kumar</h1>
-</div>
-
-<!-- Animated Typing SVG -->
-<div align="center">
-  <a href="https://github.com/mudigondapranay">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%3Ccoders/%3E!+I'm+Mudigonda+Pranay;Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
-</div>
-
-<!-- Profile Badges -->
 <p align="center">
-  <a href="https://github.com/mudigondapranay">
-    <img src="https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github" alt="Hello programmer Welcome to my profile">
-  </a>
-  <a href="https://github.com/mudigondapranay">
-    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love">
-  </a>
+  <a href="https://github.com/mudigondapranay"><img src="https://komarev.com/ghpvc/?username=mudigondapranay&label=Profile%20views&color=red&style=for-the-badge"></a>
+  <a href="https://x.com/mudigondapranay"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Mudigonda Pranay | Twitter"></img></a>
+  <a href="https://linkedin.com/in/mudigondapranay"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Mudigonda Pranay | Linkedin" /></a>
+  <a href="https://github.com/mudigondapranay"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Mudigonda Pranay | GitHub" /></a>
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <a href="https://github.com/mudigondapranay">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudigondapranay&theme=radical&border=7F3FBF&background=0D1117" alt="Mudigonda Pranay's GitHub streak">
-  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Short intro section -->
+<div align="center" style="margin: 22px 0;">
+  <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
+    Hi, I'm <b>Mudigonda Pranay Kumar</b>,
+  </span>
+  <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
+    a Full Stack Developer based in India.
+  </span>
+</div>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I'm currently working on [mudigondapranay.in](https://mudigondapranay.in)
+- 🌱 I'm currently learning **DevOps, AI/ML**
+- 👨‍💻 All of my projects are available at [mudigondapranay.in/projects](https://mudigondapranay.in/projects)
+- 📝 I regularly write articles on [mudigondapranay.in/blog](https://mudigondapranay.in/blog)
+- 💬 Ask me about **Next.js, React.js, TypeScript, Node.js, Framer Motion**
+- 📫 How to reach me **<hello@mudigondapranay.in>**
+
+<br/>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="20"> &ensp; <b>Things I code with</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<p align="left">
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://mudigondapranay.in)
 </p>
 
-<!-- About Me Section -->
-<div align="center">
-  <h2>👨‍💻 About Me</h2>
-  <p>
-    🚀 Full Stack Developer passionate about creating innovative solutions<br/>
-    💻 Love working with React, Node.js, Python, and modern web technologies<br/>
-    🌱 Currently exploring AI/ML and cloud technologies<br/>
-    🎯 Always eager to learn new technologies and contribute to open source<br/>
-    📍 Based in India
-  </p>
+---
+
+## 📊 Weekly development breakdown
+Total Time: 41 hrs 2 mins
+TypeScript 36 hrs 1 min ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀ 86.80%
+JavaScript 1 hr 28 mins ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 03.54%
+Other 28 mins ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 01.14%
+CSS 21 mins ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 00.85%
+
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b>Stats</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align=center>
+  <span><a href="https://mudigondapranay.in"><img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mudigondapranay&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
+  <span><a href="https://mudigondapranay.in"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=mudigondapranay&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span>
+  <span><a href="https://mudigondapranay.in"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=mudigondapranay&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
+  <span><a href="https://mudigondapranay.in"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mudigondapranay&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
 </div>
 
-<!-- Tech Stack -->
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  
-  <!-- Programming Languages -->
-  <h3>Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  </p>
-  
-  <!-- Frontend -->
-  <h3>Frontend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  </p>
-  
-  <!-- Backend -->
-  <h3>Backend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  </p>
-  
-  <!-- Database -->
-  <h3>Database</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  </p>
-  
-  <!-- Tools & Technologies -->
-  <h3>Tools & Technologies</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  </p>
-</div>
+<br>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudigondapranay&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudigondapranay&layout=compact&langs_count=7&theme=radical"/>
-</div>
+---
+<p align="center"><em>“Code is poetry written in logic.”</em> 💻✨</p>
 
-<!-- Activity Graph -->
-<div align="center">
-  <h2>📈 Contribution Graph</h2>
-  <img src="https://activity-graph.herokuapp.com/graph?username=mudigondapranay&bg_color=0d1117&color=fff&line=00b3ff&point=f9ca24&area=true&hide_border=true">
-</div>
-
-<!-- Connect with Me -->
-<div align="center">
-  <h2>🤝 Connect with Me</h2>
-  <p>
-    <a href="https://linkedin.com/in/mudigondapranay" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/mudigondapranay" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://instagram.com/mudigondapranay" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="mailto:pranay.mudigonda@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://mudigondapranay.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
-    </a>
-  </p>
-</div>
-
-<!-- Profile Views -->
-<div align="center">
-  <h2>👀 Profile Views</h2>
-  <p>
-    <img src="https://hits.sh/github.com/mudigondapranay/mudigondapranay.svg?label=Profile%20Views&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github" alt="Profile Views">
-    <img src="https://img.shields.io/github/followers/mudigondapranay?style=social" alt="GitHub followers">
-  </p>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-  <p>⭐️ From <a href="https://github.com/mudigondapranay">Mudigonda Pranay Kumar</a></p>
-</div>
-
-<!-- Snake eating contributions -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mudigondapranay/mudigondapranay/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mudigondapranay/mudigondapranay/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mudigondapranay/mudigondapranay/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
