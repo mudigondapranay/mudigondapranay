@@ -16,14 +16,6 @@
 
 > **Building tomorrow's web today through intelligent design and cutting-edge technology**
 
-### ⚡ **WHO I AM**
-
-• **🧬 Innovation Engineer** → Transforming complex problems into elegant digital solutions  
-• **🎨 Creative Technologist** → Merging artistic vision with technical excellence  
-• **🤖 AI Integration Specialist** → Pioneering human-centered AI experiences  
-• **🌐 Web3 & Immersive Tech Explorer** → Crafting next-generation digital interactions  
-• **📊 Data-Driven Decision Maker** → Optimizing UX through analytics and user research  
-
 ### 🛠️ **FUTURISTIC TECH STACK**
 
 ```typescript
@@ -65,22 +57,6 @@ const FuturisticStack = {
 
 > *"Technology is best when it brings people together and amplifies human potential. Every pixel, every interaction, every line of code should serve the greater purpose of creating meaningful connections and solving real-world problems."*
 
-### 🚀 **CORE COMPETENCIES**
-
-**🎯 STRATEGIC VISION**  
-→ Product strategy & roadmap development  
-→ Technical architecture & scalability planning  
-→ Cross-functional team leadership  
-
-**⚡ EXECUTION EXCELLENCE**  
-→ Rapid prototyping & MVP development  
-→ Performance optimization & monitoring  
-→ CI/CD pipeline implementation  
-
-**🧠 INNOVATION MINDSET**  
-→ Emerging technology adoption  
-→ Creative problem-solving approaches  
-→ Continuous learning & adaptation  
 
 ---
 
