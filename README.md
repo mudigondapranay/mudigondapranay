@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00D8FF,50:7C3AED,100:EC4899&height=120&section=header&text=PRANAY%20KUMAR&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Digital%20Architect%20%7C%20AI%20Innovator&descAlignY=70&descSize=16" width="100%"/>
   
   <!-- Animated Typing SVG -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Engineering+the+Future+%E2%9A%A1;Human-Centered+AI+%F0%9F%A7%A0;Immersive+Web+Architect+%F0%9F%8C%90;Next-Gen+Digital+Experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Engineering+the+Future;;Immersive+Web+Architect;Next-Gen+Digital+Experiences)](https://git.io/typing-svg)
   
   <!-- Cyber Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
