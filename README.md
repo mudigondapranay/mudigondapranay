@@ -1,133 +1,154 @@
- <!-- Futuristic GitHub Profile README -->
+<!--
+  Mudigonda Pranay Kumar — GitHub Profile README
+  Repository: https://github.com/mudigondapranay/mudigondapranay
+  Keep project links and claims current as projects evolve.
+-->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" />
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=27&duration=3000&pause=1000&color=23F1DD&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Pranay+Kumar;Full+Stack+Developer;Building+AI-powered+Products;Turning+Ideas+Into+Useful+Software" alt="Animated introduction" />
+
+  <p>
+    <strong>Full Stack Development · AI · Product Engineering</strong>
+  </p>
+
+  <p>
+    I build web applications, backend systems, and AI-powered products — from early ideas to usable software.
+  </p>
+
+  <p>
+    <a href="https://mudigondapranay.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-23F1DD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" alt="Portfolio" /></a>
+    <a href="https://github.com/mudigondapranay"><img src="https://img.shields.io/badge/GitHub-Follow-white?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/mudigondapranay"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:hello@mudigondapranay.in"><img src="https://img.shields.io/badge/Email-Contact-F43C67?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" /></a>
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:09090b,50:17152b,100:09090b" width="100%" alt="" />
+
+</div>
+
+## 👋 About Me
+
+I'm **Mudigonda Pranay Kumar**, a full-stack developer based in **Hyderabad, India**, with a background in Computer Science and Engineering.
+
+I enjoy building practical digital products across frontend, backend, databases, and AI. My focus is on turning complex workflows into software that is useful, maintainable, and easy to use.
+
+- 🧩 **I build:** Full-stack web applications, APIs, dashboards, and SaaS products.
+- 🤖 **I'm exploring:** Generative AI, LLM-powered workflows, and intelligent automation.
+- 🛠️ **My approach:** Ship useful features, keep systems understandable, and improve through iteration.
+- 🤝 **Open to:** Interesting collaborations, product ideas, and conversations about software engineering.
+- 📍 **Based in:** Hyderabad, Telangana, India.
+
+## 🧭 What I Work On
+
+| Area | Focus |
+| --- | --- |
+| **Frontend** | Responsive interfaces, component systems, dashboards, and product UX |
+| **Backend** | REST APIs, authentication, business logic, and integrations |
+| **Data** | SQL, database design, reporting, and analytics |
+| **AI** | LLM integrations, retrieval workflows, and AI-assisted product features |
+| **Product engineering** | MVP planning, system architecture, implementation, and iteration |
+
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,php" alt="JavaScript, TypeScript, Python, HTML, CSS, and PHP" />
 </p>
 
-<h1 align="center">
-  <a href="https://mudigondapranay.in/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1200&color=23F1DD&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Mudigonda+Pranay;AI-powered+Full+Stack+Developer;Building+Ideas+Into+Reality" alt="Animated introduction" />
-  </a>
-</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=BUILD.%20INNOVATE.%20REPEAT.&fontSize=30&fontColor=23F1DD&fontAlignY=38&animation=fadeIn&color=0:09090b,50:17152b,100:09090b&desc=Full%20Stack%20%7C%20AI%20%7C%20Product%20Engineering&descAlignY=60&descSize=14" width="100%" alt="Futuristic developer banner" />
+### Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" alt="React, Next.js, Tailwind CSS, and Figma" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/mudigondapranay">
-    <img src="https://komarev.com/ghpvc/?username=mudigondapranay&label=PROFILE%20VIEWS&color=23F1DD&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://x.com/mudigondapranay">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://linkedin.com/in/mudigondapranay">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=23F1DD" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hello@mudigondapranay.in">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F43C67" alt="Email" />
-  </a>
-  <a href="https://mudigondapranay.in/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+### Backend & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,supabase" alt="Node.js, Express, FastAPI, MongoDB, MySQL, PostgreSQL, and Supabase" />
 </p>
 
----
-
-<h2 align="center">⚡ About Me</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=17&pause=1500&color=F43C67&center=true&vCenter=true&width=650&lines=AI-powered+Full+Stack+Developer;Turning+Ideas+Into+Products;Exploring+Generative+AI+%26+Automation" alt="Developer specialties" />
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,cloudflare,linux,bash" alt="Git, GitHub, Docker, Vercel, Cloudflare, Linux, and Bash" />
 </p>
 
-<p align="center">
-  I'm a developer passionate about building useful digital products,<br />
-  AI-powered applications, and scalable software experiences.
-</p>
+**Also explored:** Power BI, Tableau, Streamlit, React Native, Expo, Zustand, TanStack Query, LangChain, FAISS, and Pinecone.
 
-<p align="center">
-  🔭 Building web applications and AI-powered products<br />
-  🧠 Exploring Generative AI, automation, and intelligent systems<br />
-  🛠️ Working across frontend, backend, APIs, and databases<br />
-  🌍 Based in Hyderabad, India
-</p>
+## 🚀 Projects & Product Work
 
----
+These are selected products and initiatives I've worked on or explored. Their status and public availability may vary.
 
-<h2 align="center">🦾 Tech Arsenal</h2>
+### [Rechev](https://rechevrental.com/)
+**Car-rental operations and host experience**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,html,css,tailwind,nodejs,express,fastapi,mongodb,postgres,mysql,supabase,git,docker,vercel,figma,linux,bash,github&theme=dark" alt="Technologies and tools" />
-</p>
+Working on a rental platform concept focused on helping car-rental businesses manage bookings, vehicle operations, expenses, and profitability.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Generative%20AI-23F1DD?style=flat-square&labelColor=111111" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Development-Full%20Stack-F43C67?style=flat-square&labelColor=111111" alt="Full stack development" />
-  <img src="https://img.shields.io/badge/Focus-Product%20Engineering-8B5CF6?style=flat-square&labelColor=111111" alt="Product engineering" />
-</p>
+**Product themes:** Rental workflows · Host experience · Pricing insights · Operations analytics
 
----
+### [Cachlin Technologies](https://cachlin.com/)
+**Technology company**
 
-<h2 align="center">📊 GitHub Activity</h2>
+Co-founded a technology company focused on building and modernizing digital products and software systems.
 
-<p align="center">
-  <a href="https://github.com/mudigondapranay">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=mudigondapranay&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/mudigondapranay">
-    <img height="165" src="https://streak-stats.demolab.com?user=mudigondapranay&theme=radical&hide_border=true" alt="GitHub contribution streak" />
-  </a>
-</p>
+**Focus areas:** Product development · Modernization · Software engineering · Digital solutions
+
+### Clinica
+**Healthcare software — HIMS & LIMS**
+
+A SaaS-first healthcare operations concept for hospitals, clinics, diagnostic centres, laboratories, and pharmacies, with an initial focus on the outpatient journey.
+
+**Product themes:** OPD workflows · Healthcare operations · Laboratory information · Modular SaaS architecture
+
+### [PaperBOT](https://paper-bot-ten.vercel.app/)
+**AI-first software studio**
+
+A studio concept exploring software development and AI-enabled digital experiences.
+
+### Other project work
+
+I've also worked on or contributed to projects in retail, healthcare CRM, and niche e-commerce experiences, including **Yudi Retail**, **Amy Healthcare CRM**, **Jungle Tails**, and **Untamed Waters**. Some may be client projects or private repositories, so I only link publicly accessible work where appropriate.
+
+➡️ **[Explore my portfolio and projects](https://mudigondapranay.in/projects)**
+
+## 📊 GitHub Activity
+
+The most reliable activity overview is GitHub's own contribution graph on my profile. Third-party statistics cards can occasionally fail because they depend on external services and API limits, so this section deliberately avoids making the profile depend on them.
 
 <p align="center">
   <a href="https://github.com/mudigondapranay?tab=repositories">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mudigondapranay&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Most used programming languages" />
+    <img src="https://img.shields.io/badge/Explore-Repositories-23F1DD?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="Explore repositories" />
+  </a>
+  <a href="https://github.com/mudigondapranay?tab=stars">
+    <img src="https://img.shields.io/badge/View-Starred%20Projects-F43C67?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="View starred projects" />
   </a>
 </p>
 
----
+## 🎯 What I'm Focused On
 
-<h2 align="center">🚀 Featured Work & Projects</h2>
+- Building and refining full-stack applications with modern web technologies.
+- Exploring practical ways to integrate AI into products and workflows.
+- Improving API design, database architecture, reliability, and developer experience.
+- Turning early product ideas into well-scoped, maintainable software.
 
-<p align="center">
-  <a href="https://mudigondapranay.in/projects">
-    <img src="https://img.shields.io/badge/Explore-My%20Projects-23F1DD?style=for-the-badge&labelColor=111111" alt="Explore projects" />
-  </a>
-  <a href="https://mudigondapranay.in/blog">
-    <img src="https://img.shields.io/badge/Read-My%20Blog-F43C67?style=for-the-badge&labelColor=111111" alt="Read blog" />
-  </a>
+## ✍️ Find Me Online
+
+<p>
+  <a href="https://mudigondapranay.github.io/portfolio">Website & Portfolio</a> ·
+  <a href="https://github.com/mudigondapranay">GitHub</a> ·
+  <a href="https://linkedin.com/in/mudigondapranay">LinkedIn</a> ·
+  <a href="mailto:pranay0923@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  Check out my latest projects, experiments, and development work.
-</p>
+If you're building something interesting or want to discuss full-stack development, AI, or product engineering, feel free to reach out.
 
----
+<div align="center">
 
-<h2 align="center">🌌 Current Mission</h2>
+  <br />
 
-<p align="center">
-  Building intelligent software, experimenting with emerging technologies,<br />
-  and transforming ideas into products that solve real problems.
-</p>
+  <em>“The best way to predict the future is to invent it.”</em><br />
+  **— Alan Kay**
 
-<p align="center">
-  💬 Interested in collaborating? Let's connect.
-</p>
+  <br />
 
-<p align="center">
-  <a href="mailto:hello@mudigondapranay.in">
-    <img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-23F1DD?style=for-the-badge&labelColor=111111" alt="Let's collaborate" />
-  </a>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:09090b,50:17152b,100:09090b" width="100%" alt="" />
 
----
-
-<p align="center">
-  <i>"The best way to predict the future is to invent it."</i><br />
-  <b>— Alan Kay</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:09090b,50:17152b,100:09090b&section=footer" width="100%" alt="Animated footer banner" />
-</p>
+</div>
