@@ -16,12 +16,20 @@
     I build web applications, backend systems, and AI-powered products — from early ideas to usable software.
   </p>
 
-  <p>
-    <a href="https://mudigondapranay.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-23F1DD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" alt="Portfolio" /></a>
-    <a href="https://github.com/mudigondapranay"><img src="https://img.shields.io/badge/GitHub-Follow-white?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" /></a>
-    <a href="https://linkedin.com/in/mudigondapranay"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:hello@mudigondapranay.in"><img src="https://img.shields.io/badge/Email-Contact-F43C67?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" /></a>
-  </p>
+   <p align="center">
+  <a href="https://mudigondapranay.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-23F1DD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111" alt="Website and Portfolio" />
+  </a>
+  <a href="https://github.com/mudigondapranay">
+    <img src="https://img.shields.io/badge/GitHub-Follow-white?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/mudigondapranay">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pranay0923@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-F43C67?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" />
+  </a>
+</p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:09090b,50:17152b,100:09090b" width="100%" alt="" />
 
