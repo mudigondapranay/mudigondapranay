@@ -111,7 +111,20 @@ I've also worked on or contributed to projects in retail, healthcare CRM, and ni
 
 ## 📊 GitHub Activity
 
-The most reliable activity overview is GitHub's own contribution graph on my profile. Third-party statistics cards can occasionally fail because they depend on external services and API limits, so this section deliberately avoids making the profile depend on them.
+<p align="center">
+  <a href="https://github.com/mudigondapranay">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mudigondapranay&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  </a>
+  <a href="https://streak-stats.demolab.com/?user=mudigondapranay&theme=radical&hide_border=true">
+    <img height="165" src="https://streak-stats.demolab.com/?user=mudigondapranay&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mudigondapranay?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudigondapranay&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Most used programming languages" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/mudigondapranay?tab=repositories">
